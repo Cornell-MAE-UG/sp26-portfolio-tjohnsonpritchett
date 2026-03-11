@@ -2,11 +2,7 @@
 layout: project
 title: Portfolio
 description: OLHW 5
-image: /assets/images/nutracker.png
-image: /assets/images/nutracker calcs.png
-image: /assets/images/nutracker FBD.png
-image: /assets/images/nutracker diagram.png
-
+image: /assets/images/nutcracker.png
 ---
 
 Find:
@@ -19,17 +15,17 @@ Given:
 - Reasonable grip strength: 45kg
 - Nut size: 2cm
 
-![]({{ '/assets/images/nutcracker.png' | relative_url }})
+![](/assets/images/nutcracker.png)
 
 Approach:
 
-![]({{ '/assets/images/nutcracker FBD.png' | relative_url }})
+![](/assets/images/nutcracker%20FBD.png)
 
-![]({{ '/assets/images/nutcracker calcs.png' | relative_url }})
+![](/assets/images/nutcracker%20calcs.png')
 
 Design:
 
-![]({{ '/assets/images/nutcracker design.png' | relative_url }})
+![](/assets/images/nutcracker%20diagram.png)
 
 Discussion:
 - This nutcracker generally seems super useable, because its size can reasonably fit in a persons hand
