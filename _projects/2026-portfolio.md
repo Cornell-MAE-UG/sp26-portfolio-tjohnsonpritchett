@@ -15,6 +15,8 @@ Given:
 - Reasonable grip strength: 45kg
 - Nut size: 2cm
 
+TEST
+
 ![](/assets/images/nutcracker.png)
 
 Approach:
