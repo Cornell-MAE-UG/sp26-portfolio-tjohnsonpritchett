@@ -15,19 +15,17 @@ Given:
 - Reasonable grip strength: 45kg
 - Nut size: 2cm
 
-TEST
-
-![](/assets/images/nutcracker.png)
+<img src=../assets/images/nutcracker.png alt="nutcracker" width=1000>
 
 Approach:
 
-![](/assets/images/nutcracker%20FBD.png)
+<img src=../assets/images/nutcracker%20FBD.png alt="nutcracker fbd" width=1000>
 
-![](/assets/images/nutcracker%20calcs.png')
+<img src=../assets/images/nutcracker%20calcs.png alt="nutcracker calcs" width=1000>
 
 Design:
 
-![](/assets/images/nutcracker%20diagram.png)
+<img src=../assets/images/nutcracker%20diagram.png alt="nutcracker diagram" width=1000>
 
 Discussion:
 - This nutcracker generally seems super useable, because its size can reasonably fit in a persons hand
